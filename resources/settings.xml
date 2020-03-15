@@ -58,7 +58,7 @@
     	<setting id="display_eztv" label="Display" type="bool" default="true" />
     	<setting id="eztv_label" type="text" label="Label" default="TV Shows" />
     	<setting id="eztv_picture" type="text" label="Picture link" default="http://i.imgur.com/FDwFjse.png" />
-    	<setting id="base_eztv" type="text" label="Domain" default="https://eztv.ch" />
+    	<setting id="base_eztv" type="text" label="Domain" default="https://eztv.io" />
     	
  		<setting label="Kickass Torrents" type="lsep"/>    		
     	<setting id="display_kickass" label="Display" type="bool" default="true" />
